@@ -1,6 +1,6 @@
 ### 04.Github配置说明
 
-``bash
+```bash
 # 配置说明
 > cd /Users/axu/code/axuProject
 > pwd
