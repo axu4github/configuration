@@ -1,0 +1,19 @@
+[user]
+	name = anxu
+	email = axu.home@gmail.com
+[color]
+	ui = auto
+[filter "lfs"]
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true
+[alias]
+    st = status
+    ci = commit
+    co = checkout
+    br = branch
+    pl = pull
+    ph = push
+
+[core]
+	quotepath = false
