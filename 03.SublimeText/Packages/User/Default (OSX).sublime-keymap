@@ -1,0 +1,4 @@
+[
+    {"keys": ["control+shift+f"], "command": "tag_indent_document"},
+    {"keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"}},
+]
