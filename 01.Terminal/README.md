@@ -38,6 +38,13 @@ export LSCOLORS=ExFxCxDxBxegedabagacad
 
 # 使配置生效
 > source ~/.profile
+
+# 检查
+> ll
 ```
+
+![](media/14916637087440/14916657899383.jpg)
+
+
 
 
